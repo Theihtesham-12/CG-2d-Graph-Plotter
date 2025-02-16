@@ -1,0 +1,24 @@
+
+........Mathematical Expressions......
+
+ * Linear Function: x
+ 
+ * Quadratic Function: x**2
+
+ * Cubic Function: x**3
+
+Trigonometric Functions:-
+ 
+ *Sine Function: np.sin(x)
+ *Cosine Function: np.cos(x)
+ *Tangent Function: np.tan(x)
+
+Exponential and Logarithmic Functions:-
+
+  *Exponential Function: np.exp(x)
+  *Natural Logarithm: np.log(x)
+  *Absolute Value Function:np.sqrt(x)
+
+  *Polynomial Function:-x**3 - 2*x**2 + x - 1
+  *Damped Oscillation:- np.sin(x) / x
+
